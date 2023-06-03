@@ -16,6 +16,7 @@
   <img align="center" alt="Saif-Qt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
   <img align="center" alt="Saif-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Saif-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Saif-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
    <img align="center" alt="Saif-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   
   <img align="right" alt="Saif-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/rao_saIf#5292.png?width=676&height=676">
