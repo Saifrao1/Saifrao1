@@ -1,8 +1,8 @@
 ## Hi! There I'am Saif ur Rehman
 <div>
   <a href="https://github.com/Saifrao1" />
-  <img height='190em' src="https://github-readme-stats.vercel.app/api?username=Saifrao1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height='190em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrao1&layout=compact&lang_count=18&theme=dracula" />
+  <img height='190em' src="https://github-readme-stats.vercel.app/api?username=Saifrao1&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true" />
+  <img height='190em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifrao1&layout=compact&lang_count=18&theme=graywhite" />
 </div>  
 
 <div style="display: inline_block"><br>
